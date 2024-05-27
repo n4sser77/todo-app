@@ -1,0 +1,20 @@
+[
+    {
+        "name": "rick",
+        "age": 66,
+        "gender": "male",
+        "isStudent": false
+    },
+    {
+        "name": "Morty",
+        "age": 16,
+        "gender": "Male",
+        "isStudent": true
+    },
+    {
+        "name": "Adult Morty ",
+        "age": 32,
+        "gender": "Male",
+        "isStudent": false
+    }
+]
